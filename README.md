@@ -5,6 +5,6 @@ Also adds a generator for creating arbitrary templated content based on the list
 
 Blast off like so:
 ```
-npm install && gulp
+npm install && npm run gulp
 ```
  Puts stuff in `out` directory. Look around and see what you find.
